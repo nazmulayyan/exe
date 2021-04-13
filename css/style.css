@@ -972,7 +972,7 @@ ul,ol{
 .choose-left .slick-dots{
     position: absolute;
     left: 11%;
-    bottom: -45px;
+    bottom: -10px;
     transform: translateX(-50%);
 }
 
@@ -1595,6 +1595,7 @@ ul,ol{
 .foot-mid3-right{
     display: flex;
     flex-wrap: wrap;
+    
 }
 .foot-mid3-right i{
     width: 16px;
@@ -1605,7 +1606,7 @@ ul,ol{
     border-radius: 3px;
     font-size: 10px;
     color: #252525;
-    margin-right: 2px;
+    margin-right: 3px;
     margin-bottom: 2px;
     transition: all linear .3s;
 }
